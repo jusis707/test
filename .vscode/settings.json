@@ -1,0 +1,5 @@
+{
+    "scm.alwaysShowRepositories": true,
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true
+}
